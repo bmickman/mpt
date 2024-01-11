@@ -1,8 +1,8 @@
 # General Settings
-title = "Ober - CV/Resume & Personal Portfolio Hugo Theme"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
+title = ""
+baseURL = "https://manhattanpianotuner.com/" #YOUR SITE URL
 languageCode = "en-us"
-theme = "ober"
+theme = ""
 resourceDir = "../resources"
 paginate = 6
 summaryLength = 20
@@ -62,22 +62,19 @@ DefaultContentLanguage = "en"
 [params]
 defaultSkin = "light"
 dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
-disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+authorName = "Notorious Octopus"
 
 # Preloader Settings
 [params.preloader]
-logo = "images/ober_logo.png"
+logo = "images/pianosmall.png"
 
 # Header Settings
 [params.header]
-logo = "images/ober_logo.png"
+logo = "images/pianosmall.png"
 
 # Footer Settings
 [params.footer]
-copyright = "© 2022 Ober. All Rights Reserved"
+copyright = "© 2024 Notorious Octopus. All Rights Reserved"
 developer = "bslthemes"
 
 # Social Settings

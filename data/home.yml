@@ -7,7 +7,7 @@
 hero:
   enable: true
   image: "images/about/profile.jpg"
-  image_alt: "Federico Ober"
+  image_alt: "Manhattan Piano Tuner"
   title: "Servicing the NYC Metro Area!"
   subtitle: "Manhattan Piano Tuner"
   description: "Piano tuning services for the New York City Metropolitan Area"

@@ -7,8 +7,8 @@
 hero:
   enable: true
   image: "images/about/profile.png"
-  image_alt: "Federico Ober"
-  title: "Federico <br>Ober"
+  image_alt: "Manhattan Piano Tuner"
+  title: "Manhattan Piano Tuner"
   subtitle: "UI UX DESIGNER"
   description: "I\"m a UI/UX Designer based in NewYork and enjoy playing with colors. I love travelling, photography &amp; music."
   info:
@@ -26,17 +26,7 @@ about:
   enable: true
   title: "About Me"
   text: "
-  <p>
-    My name is Federico Ober. I have been studying UI UX Design since October 2020. I like creating
-    a cool design project.</p><p>Donec imperdiet risus at tortor consequat maximus et eget magna.
-    Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel
-    bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed.
-    Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.
-  </p>
-  <p>
-    In sed dolor ut ligula malesuada sollicitudin. Morbi iaculis convallis arcu, nec maximus tellus
-    sodales in. Curabitur blandit enim at nisl lobortis, non pretium enim hendrer
-  </p>
+
   "
   list:
     - label: "Completed <br>Project"
@@ -163,9 +153,7 @@ resume:
           subname: "Graphic Designer"
           text: "<p>Euismod vel bibendum ultrices, fringilla vel eros, donec euismod leo lectus.</p>"
 
-  button:
-    text: "Download CV"
-    link: "https://bslthemes.site/ober/wp-content/uploads/2021/12/Jacky-Smith-Resume.pdf"
+
 
 ### Pricing [ pricingSection ]
 pricing:
@@ -241,7 +229,7 @@ clients:
       title: "bslthemes"
 
     - image: "images/brands/brand4.png"
-      title: "bslthemes"
+      title: ""
 
 ### Contact [ contacts ]
 contact:
@@ -250,15 +238,15 @@ contact:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "+1 023-456-7800"
+      value: ""
 
     - label: "Email"
       icon: "fas fa-at"
-      value: "hi.ober@bslthemes.com"
+      value: ""
 
     - label: "Address"
       icon: "fas fa-location-arrow"
-      value: "43rd Street River Point NY 1023"
+      value: ""
 
 ### Blog [ blogSection ]
 #items generates from dir /content/blog/*
