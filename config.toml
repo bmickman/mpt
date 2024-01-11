@@ -45,6 +45,9 @@ defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "BMickman"
 googleAnalytics = "G-TW140BWEHC"
+  logo = "/images/piano32.png" 
+  description = "NYC's Favorite Piano Tuner! Affordable rates & appointments at a time that works for you!"
+
 
 # Preloader Settings
 [params.preloader]
@@ -90,6 +93,6 @@ slug = "branding"
 
 # Sitemap Settings
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
