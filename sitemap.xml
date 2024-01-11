@@ -4,11 +4,14 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 <url>
 <loc>https://manhattanpianotuner.com/</loc>
 <lastmod>2024-01-08T21:35:45+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+
 <priority>1.00</priority>
 </url>
 <url>
 <loc>https://manhattanpianotuner.com/blog/</loc>
 <lastmod>2024-01-08T21:35:45+00:00</lastmod>
+      <changefreq>monthly</changefreq>
 <priority>0.80</priority>
 </url>
 </urlset>
