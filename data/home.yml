@@ -62,7 +62,7 @@ about:
 
 ### Pricing [ pricingSection ]
 pricing:
-  enable: true
+  enable: false
   title: "Pricing"
   text: "Simple and straightforward pricing!"
   items:
