@@ -7,6 +7,7 @@ resourceDir = "../resources"
 paginate = 6
 summaryLength = 20
 DefaultContentLanguage = "en"
+title = "Manhattan Piano Tuner | 5 Star Reviews!"
 
 # Menu Settings
 [menu]
@@ -63,6 +64,7 @@ DefaultContentLanguage = "en"
 defaultSkin = "light"
 dateFormat = "January 2, 2006"
 authorName = "Notorious Octopus"
+description = "Easily Book a Piano Tuning Online!"
 
 # Preloader Settings
 [params.preloader]
@@ -112,6 +114,6 @@ slug = "branding"
 
 # Sitemap Settings
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
