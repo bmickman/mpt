@@ -28,7 +28,6 @@
   <link rel="shortcut icon" href="{{ "images/favicon/favicon.ico" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/favicon/favicon.ico" | absURL }}" type="image/x-icon" />
 
-  {{ with site.Params.googleAnalytics }}
   {{ "<!-- Google Analytics -->" | safeHTML }}
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-739908831"></script>
   <script>
@@ -38,6 +37,8 @@
 
     gtag('config', 'AW-739908831');
   </script>
+    {{ with site.Params.googleAnalytics }}
+
   {{ end }}
 
   {{ range .AlternativeOutputFormats -}}
