@@ -7,7 +7,7 @@ paginate = 6
 summaryLength = 20
 DefaultContentLanguage = "en"
 title = "Manhattan Piano Tuner | 5 Star Reviews!"
-googleAnalytics = "AW-739908831" # Add your identifier. 
+googleAnalytics = "G-TW140BWEHC" # Add your identifier. 
 
 # Menu Settings
 [menu]
@@ -65,7 +65,7 @@ defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "Notorious Octopus"
 description = "Easily Book a Piano Tuning Online!"
-googleAnalytics = "AW-739908831" # Add your identifier. 
+googleAnalytics = "G-TW140BWEHC" # Add your identifier. 
 googleTag = "AW-739908831"
 
 # Preloader Settings
