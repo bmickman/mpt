@@ -3,7 +3,7 @@ license = "GPL"
 licenselink = ""
 description = "Manhattan Piano Tuner"
 homepage = "Book a Piano Tuning Today!"
-tags = ["clean", "minimal", "blog", "responsive", "personal", "google analytics", "bootstrap", "portfolio", "resume", "modern", "cv", "contact form", "creative"]
+tags = ["piano", "piano tuning", "piano nyc", "brooklyn piano tuner"]
 features = ['bootstrap 4', 'responsive design', 'blog', 'responsive', 'minimal', 'resume', 'cv', 'hugo-theme', 'portfolio', 'creative', 'contact-form']
 min_version = "0.41"
 
