@@ -79,7 +79,7 @@ logo = "images/pianosmall.png"
 # Footer Settings
 [params.footer]
 copyright = "© 2024 Notorious Octopus. All Rights Reserved"
-developer = "Notorious Octopus"
+developer = "Notorious"
 
 # Social Settings
 [[params.social]]
