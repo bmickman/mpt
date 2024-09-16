@@ -69,6 +69,8 @@ fields:
   - type: text
     name: googleAnalytics
     label: googleAnalytics
+    name: googleTag
+    label: googleTag
   - type: text
     name: formspreeURL
     label: formspreeURL
