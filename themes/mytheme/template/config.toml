@@ -61,10 +61,12 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
 
 # Main Settings
 [params]
-defaultSkin = "light"
+defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "Notorious Octopus"
 description = "Easily Book a Piano Tuning Online!"
+googleAnalytics = "G-TW140BWEHC" # Add your identifier. 
+
 
 # Preloader Settings
 [params.preloader]
