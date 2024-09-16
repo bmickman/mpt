@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
 {{ partial "head.html" . }}
+{{ partial "google.html" . }}
 
 <body class="{{ if .IsHome }}home {{ end }}page{{ if eq .Site.Params.defaultSkin "light" }} light-skin{{ end }}">
   <div class="container-page ">
