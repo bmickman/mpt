@@ -17,16 +17,6 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
   url = "#about-section"
   weight = 1
 [[menu.main]]
-  identifier = "resume"
-  name = "Resume"
-  url = "#resume-section"
-  weight = 2
-[[menu.main]]
-  identifier = "works"
-  name = "Works"
-  url = "#works-section"
-  weight = 3
-[[menu.main]]
   identifier = "pricing"
   name = "Pricing"
   url = "#pricing-section"
@@ -41,23 +31,6 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
   name = "Contact"
   url = "#contact-section"
   weight = 6
-[[menu.main]]
-  identifier = "pages"
-  name = "Pages"
-  url = "#pages"
-  weight = 7
-[[menu.main]]
-  identifier = "pages-blog"
-  parent = "pages"
-  name = "Blog List"
-  url = "/blog/"
-  weight = 1
-[[menu.main]]
-  identifier = "pages-works"
-  parent = "pages"
-  name = "Works List"
-  url = "/portfolio/"
-  weight = 2
 
 # Main Settings
 [params]

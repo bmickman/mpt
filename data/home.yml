@@ -64,7 +64,7 @@ about:
 
 ### Pricing [ pricingSection ]
 pricing:
-  enable: false
+  enable: true
   title: "Pricing"
   text: "Simple and straightforward pricing!"
   items:
@@ -81,7 +81,7 @@ pricing:
 
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
-      price: "$165"
+      price: "$175"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -92,7 +92,7 @@ pricing:
 
     - name: "Student Rate"
       subname: "Available to piano teachers and current music students only"
-      price: "$135"
+      price: "$145"
       list:
         - value: "Piano Tuning in residential locations only"
         - value: "NYC Metro Area"
