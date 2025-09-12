@@ -81,7 +81,7 @@ pricing:
 
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
-      price: "$160"
+      price: "$165"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
