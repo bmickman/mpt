@@ -124,14 +124,6 @@ contact:
   enable: true
   title: "Contact Me"
   list:
-    - label: "Phone"
-      icon: "fas fa-phone"
-      value: "617-519-1141"
-
-    - label: "Email"
-      icon: "fas fa-at"
-      value: "piano.mickman@gmail.com"
-
     - label: "Address"
       icon: "fas fa-location-arrow"
       value: "Brooklyn, NY 10001"

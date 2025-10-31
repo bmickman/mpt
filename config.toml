@@ -23,7 +23,7 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
   weight = 4
 [[menu.main]]
   identifier = "blog"
-  name = "Blog"
+  name = "FAQ"
   url = "#blog-section"
   weight = 5
 [[menu.main]]

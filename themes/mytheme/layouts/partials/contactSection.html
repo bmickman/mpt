@@ -16,9 +16,19 @@
         <div class="numbers-items contacts-items">
           {{ range .list }}
           <div class="numbers-item scrolla-element-anim-1 scroll-animate" data-animate="active">
+
             <div class="icon" title="{{ .title }}">
-              <i aria-hidden="true" class="{{ .icon }}"></i>
+              <a href="tel:+16175191141">(617) 519-1141</a> 
+              
+              <i aria-hidden="true" class="fas fa-phone"></i>
             </div>
+            <div class="icon" title="{{ .title }}">
+              <a href="mailto:piano.mickman@gmail.com">piano.mickman@gmail.com</a>
+
+              <i aria-hidden="true" class="fas fa-at"></i>
+            </div>
+
+
             <div class="num">{{ .value }}</div>
           </div>
           {{ end }}
