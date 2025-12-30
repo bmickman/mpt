@@ -65,12 +65,12 @@ about:
 ### Pricing [ pricingSection ]
 pricing:
   enable: true
-  title: "Pricing"
+  title: "2026 Pricing"
   text: "Simple and straightforward pricing!"
   items:
     - name: "Standard Rate"
       subname: "Standard rate applies if W9 or 1099 forms are required"
-      price: "$200"
+      price: "$225"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -81,23 +81,23 @@ pricing:
 
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
-      price: "$165"
+      price: "$185"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
         - value: "Flexible scheduling!"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+        
       button: "Schedule Today!"
       link: "#contact-section"
 
-    - name: "Student Rate"
-      subname: "Available to piano teachers and current music students only"
-      price: "$140"
+    - name: "Adjusted Rate"
+      subname: "Available to piano teachers, current music students, and those who can demonstrate legitimate financial hardship"
+      price: "$140 (suggested / sliding scale)"
       list:
-        - value: "Piano Tuning in residential locations only"
+        - value: "Piano Tuning in residential locations only, no ticketed events"
         - value: "NYC Metro Area"
-        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
-        - value: "Proof of current music studies are required"
       button: "Schedule Today!"
       link: "#contact-section"
 
