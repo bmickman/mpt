@@ -70,7 +70,7 @@ pricing:
   items:
     - name: "Standard Rate"
       subname: "Standard rate applies if W9 or 1099 forms are required"
-      price: "$225"
+      price: "$215"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -81,7 +81,7 @@ pricing:
 
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
-      price: "$185"
+      price: "$175"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
