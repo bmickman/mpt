@@ -87,7 +87,7 @@ pricing:
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
         - value: "Flexible scheduling!"
-        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+
         
       button: "Schedule Today!"
       link: "#contact-section"
