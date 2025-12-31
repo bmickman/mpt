@@ -68,25 +68,26 @@ pricing:
   title: "2026 Pricing"
   text: "Simple and straightforward pricing!"
   items:
-    - name: "Standard Rate"
-      subname: "Standard rate applies if W9 or 1099 forms are required"
-      price: "$215"
-      list:
-        - value: "Piano Tuning"
-        - value: "NYC Metro Area"
-        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
-        - value: "Flexible scheduling!"
-      button: "Schedule Today!"
-      link: "#contact-section"
-
+    
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
       price: "$175"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
-        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
+
+    - name: "Commercial Rate"
+      subname: "Commercial rate applies if W9 or 1099 forms are required"
+      price: "$215"
+      list:
+        - value: "Piano Tuning"
+        - value: "NYC Metro Area"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
+        - value: "Flexible scheduling!"
+      button: "Schedule Today!"
+      link: "#contact-section"
 
         
       button: "Schedule Today!"
