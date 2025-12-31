@@ -69,7 +69,7 @@ pricing:
   text: "Simple and straightforward pricing!"
   items:
     
-    - name: "Local Rate"
+    - name: "Local Discount Rate"
       subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
       price: "$175"
       list:
