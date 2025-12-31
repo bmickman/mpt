@@ -77,6 +77,8 @@ pricing:
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
+      button: "Schedule Today!"
+      link: "#contact-section"
 
     - name: "Commercial Rate"
       subname: "Commercial rate applies if W9 or 1099 forms are required"
@@ -91,8 +93,6 @@ pricing:
       link: "#contact-section"
 
         
-      button: "Schedule Today!"
-      link: "#contact-section"
 
     - name: "Adjusted Rate"
       subname: "Available to piano teachers, current music students, and those who can demonstrate legitimate financial hardship"
