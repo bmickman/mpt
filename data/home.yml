@@ -86,6 +86,7 @@ pricing:
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
+        - value: "Late/Early hours are possible upon request"
       button: "Schedule Today!"
       link: "#contact-section"
 
@@ -97,8 +98,12 @@ pricing:
       subname: "Available to piano teachers, current music students, and those who can demonstrate legitimate financial hardship"
       price: "$140 (suggested / sliding scale)"
       list:
-        - value: "Piano Tuning in residential locations only, no ticketed events"
-        - value: "NYC Metro Area"
+        - value: "Piano Tuning"
+        - value: "Residences only"
+        - value: "No ticketed events"  
+        - value: "Discounted rate MUST be approved before tuning appointments"               
+        - value: "NYC Metro Area only"
+
       button: "Schedule Today!"
       link: "#contact-section"
 
