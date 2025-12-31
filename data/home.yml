@@ -70,7 +70,7 @@ pricing:
   items:
     
     - name: "Local Rate"
-      subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
+      subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
       price: "$175"
       list:
         - value: "Piano Tuning"
