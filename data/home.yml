@@ -94,14 +94,13 @@ pricing:
 
         
 
-    - name: "Adjusted Community Support Rate"
-      subname: "Available to current music students (enrolled in class or private lessons), and those who can demonstrate legitimate financial hardship"
-      price: "$140"
+    - name: "Student Rate"
+      subname: "Available to current music students (enrolled in class or private lessons)"
+      price: "$145"
       list:
         - value: "Piano Tuning"
         - value: "Residences only"
         - value: "No ticketed events"  
-        - value: "Suggested / sliding scale pricing"  
         - value: "Discounted rate MUST be approved before tuning appointments"               
         - value: "NYC Metro Area only"
 
