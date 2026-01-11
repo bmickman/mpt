@@ -36,7 +36,7 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
 [params]
 defaultSkin = "dark"
 dateFormat = "January 2, 2006"
-authorName = "Notorious Octopus"
+authorName = "Brandon"
 description = "Easily Book a Piano Tuning Online!"
 googleAnalytics = "G-TW140BWEHC" # Add your identifier. 
 googleTag = "AW-739908831"

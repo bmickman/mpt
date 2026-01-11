@@ -30,16 +30,10 @@ about:
     Schedule your last minute piano tuning needs in Manhattan, Brooklyn, Queens, or the greater metro NYC area today!   
     Hello! My name is Brandon and I'm a long-term New York City resident. I've been tuning New York's
     pianos since 2011. I've worked on many of the most famous stages in the world, such as 
-    Carnegie Hall, The Apollo, Lincoln Center, Saint Patrick's Cathedral, and several theaters on (and off) Broadway! 
-  </p>
-
-  <p>  
-    I've tuned at some of the most highly regarded recording studios in the city, as well as
-    for NYC public and private schools, churches, and countless home residences. 
-    I've also tuned specifically for performances by Sarah McLachlan, Alicia Keys, Hugh Jackman, and for plays such as The Book of Mormon and Shucked. 
-
-  </p>
-  "
+    Carnegie Hall, The Apollo, Lincoln Center, Saint Patrick's Cathedral, and several theaters on (and off) Broadway! </p><p>  
+     I've tuned at some of the most highly regarded recording studios in the city, as well as
+     for NYC public and private schools, churches, and countless home residences. 
+     I've also tuned specifically for performances by Sarah McLachlan, Alicia Keys, Hugh Jackman, and for plays such as The Book of Mormon and Shucked. </p>"
   
   list:
     - label: "Hundreds of pianos tuned!"
@@ -67,10 +61,12 @@ pricing:
   enable: true
   title: "2026 Pricing"
   text: "Simple and straightforward pricing!"
+
   items:
     
     - name: "Local Discount Rate"
       subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
+
       price: "$175"
       list:
         - value: "Piano Tuning"
@@ -78,7 +74,10 @@ pricing:
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
       button: "Schedule Today!"
+
       link: "#contact-section"
+
+
 
     - name: "Commercial Rate"
       subname: "Commercial rate applies if W9 or 1099 forms are required"
