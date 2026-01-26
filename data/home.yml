@@ -59,7 +59,7 @@ about:
 ### Pricing [ pricingSection ]
 pricing:
   enable: true
-  title: "LIMITED TIME Winter Special Pricing"
+  title: "2026 Pricing"
   text: "Simple and straightforward pricing!"
 
   items:
@@ -67,7 +67,7 @@ pricing:
     - name: "Local Discount Rate"
       subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
 
-      price: "$149"
+      price: "$175"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -81,7 +81,7 @@ pricing:
 
     - name: "Commercial Rate"
       subname: "Commercial rate applies if W9 or 1099 forms are required"
-      price: "$199"
+      price: "$209"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -95,7 +95,7 @@ pricing:
 
     - name: "Student Rate"
       subname: "Available to current music students (enrolled in class or private lessons)"
-      price: "$139"
+      price: "$145"
       list:
         - value: "Piano Tuning"
         - value: "Residences only"
