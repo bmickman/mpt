@@ -1,5 +1,8 @@
 # General Settings
-baseURL = "https://manhattanpianotuner.com/" #YOUR SITE URL
+baseURL = "/"
+relativeURLs = true
+canonifyURLs = false
+
 languageCode = "en-us"
 theme = ""
 resourceDir = "../resources"
