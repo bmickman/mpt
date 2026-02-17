@@ -1,0 +1,17 @@
+[build]
+  # Command Netlify runs to build your Hugo site
+  command = "hugo"
+  # Folder to publish (Hugo default)
+  publish = "public"
+
+# Production build environment (your real domain)
+[context.production.environment]
+  HUGO_BASEURL = "https://manhattanpianotuner.com"
+
+# Optional: deploy preview environment (Netlify preview deploys)
+[context.deploy-preview.environment]
+  HUGO_BASEURL = "/"
+
+# Optional: branch deploy environment (feature branches)
+[context.branch-deploy.environment]
+  HUGO_BASEURL = "/"
