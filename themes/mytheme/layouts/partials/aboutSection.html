@@ -21,7 +21,15 @@
               <i aria-hidden="true" class="{{ .icon }}"></i>
             </div>
             <div class="num">{{ .num }}</div>
-            <div class="title">{{ .label | safeHTML }}</div>
+<div class="title">
+  {{ if .link }}
+    <a href="{{ .link }}" target="_blank" rel="noopener">
+      {{ .label | safeHTML }}
+    </a>
+  {{ else }}
+    {{ .label | safeHTML }}
+  {{ end }}
+</div>
           </div>
           {{ end }}
         </div>

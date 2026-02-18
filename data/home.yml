@@ -40,17 +40,18 @@ about:
       icon: "far fa-check-circle"
       value: "124"
 
-    - label: "Great reviews!"
+    - label: "CLICK HERE to read my reviews!"
+      link: "https://www.google.com/search?q=Manhattan+Piano+Tuner#mpd=~9009220522492547330/customers/reviews"
       icon: "far fa-smile-beam"
       value: "65"
-
+      
     - label: "Schedule at your convenience!"
       icon: "far fa-clock"
       value: "18"
 
   button:
     text: "Schedule via Calendly"
-    link: "https://calendly.com/brandon-mickman"
+    link: "https://calendly.com/brandon-mickman"  
 
   signature:
     image: ""
