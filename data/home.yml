@@ -50,7 +50,7 @@ about:
       value: "18"
 
   button:
-    text: "Schedule via Calendly"
+    text: "* Book Online * on Calendly"
     link: "https://calendly.com/brandon-mickman"  
 
   signature:
