@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>
+    {{ if .Params.location }}
+      Piano Tuning in {{ .Params.location }}
+    {{ else }}
+      {{ .Title }}
+    {{ end }}
+  </h1>
+  
+  {{ partial "heroSection.html" . }}
+
+  {{ partial "aboutSection.html" . }}
+
+  {{ partial "pricingSection.html" . }}
+
+  {{ partial "contactSection.html" . }}
+
+{{ end }}

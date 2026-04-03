@@ -40,7 +40,11 @@
         {{ "<!-- profile -->" | safeHTML }}
         <div class="profile-box">
           <div class="text scrolla-element-anim-1 scroll-animate" data-animate="active">
-            {{ .text | safeHTML }}
+            {{ if $.Params.about_text }}
+              {{ $.Params.about_text | safeHTML }}
+            {{ else }}
+              {{ .text | safeHTML }}
+            {{ end }}
             <a href="{{ .button.link }}" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active">{{ .button.text }}</a>
             <div class="signature scrolla-element-anim-1 scroll-animate" data-animate="active">
               <img src="{{ .signature.image | absURL }}" alt="{{ .signature.alt }}" />
