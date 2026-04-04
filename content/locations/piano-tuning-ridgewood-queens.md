@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Ridgewood | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Ridgewood, Queens, NY. Serving homes, apartments, studios, schools, and local venues throughout Queens and the greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-ridgewood-queens/"
+permalink: /piano-tuning-ridgewood-queens/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Queens, Brooklyn, and Manhattan, including the Ridgewood neighborhood, known for its charming residential streets, co-op buildings, and local community spaces.</p>
   

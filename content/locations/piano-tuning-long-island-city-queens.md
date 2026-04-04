@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Long Island City | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Long Island City, Queens, NY. Serving apartments, lofts, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-long-island-city-queens/"
+permalink: /piano-tuning-long-island-city-queens/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Queens, Brooklyn, and Manhattan, including the waterfront apartments, modern lofts, and creative spaces of Long Island City.</p>
   

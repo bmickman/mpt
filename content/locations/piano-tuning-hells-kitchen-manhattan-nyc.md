@@ -6,7 +6,8 @@ draft: false
 date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Hell’s Kitchen | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Hell’s Kitchen, Manhattan, NY. Serving apartments, studios, theaters, and performance spaces throughout the neighborhood and greater NYC area."
-canonical: "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan/"
+canonical: "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan-nyc/"
+permalink: /piano-tuning-hells-kitchen-manhattan-nyc/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Manhattan, Brooklyn, and Queens, including the apartments, lofts, studios, and performance venues that make Hell’s Kitchen vibrant.</p>
   
@@ -32,10 +33,10 @@ schema: |
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan/",
+    "@id": "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan-nyc/",
     "name": "Manhattan Piano Tuner in Hell’s Kitchen, Manhattan",
     "description": "Schedule your last minute piano tuning needs in Hell’s Kitchen, Midtown Manhattan, Manhattan, Brooklyn, Queens, and the greater metro NYC area today! Professional piano tuning since 2011.",
-    "url": "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan/",
+    "url": "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan-nyc/",
     "telephone": "+1-617-519-1141",
     "address": {
       "@type": "PostalAddress",

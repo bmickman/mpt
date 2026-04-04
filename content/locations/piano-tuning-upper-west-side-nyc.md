@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in the Upper West Side | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in the Upper West Side, Manhattan, NY. Serving venues, apartments, condos, studios, theaters, and musicians throughout the city."
 canonical: "https://manhattanpianotuner.com/piano-tuning-upper-west-side-nyc/"
+permalink: /piano-tuning-upper-east-side-nyc/
 about_text: |
   <p>Welcome to the home of Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout the city, from elegant pre-war apartments, brownstones, and modern condos that define the Upper West Side.</p>
   

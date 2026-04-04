@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in SoHo | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in SoHo, Manhattan, NY. Serving venues, lofts, apartments, studios, theaters, and musicians throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-soho-nyc/"
+permalink: /piano-tuning-soho-nyc/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout the city, including the artistic and historic lofts, galleries, and apartments that define SoHo.</p>
   

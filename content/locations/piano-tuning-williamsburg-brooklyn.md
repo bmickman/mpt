@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Williamsburg | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Williamsburg, Brooklyn, NY. Serving venues, apartments, lofts, studios, and musicians throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-williamsburg-brooklyn/"
+permalink: /piano-tuning-williamsburg-brooklyn/
 about_text: |
   <p>Welcome to the home of Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn and Manhattan, including the vibrant Williamsburg neighborhood of Brooklyn, with its modern lofts, converted warehouses, and classic brownstones.</p>
   

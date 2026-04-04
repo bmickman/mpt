@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Park Slope | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Park Slope, Brooklyn, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-park-slope-brooklyn/"
+permalink: /piano-tuning-park-slope-brooklyn/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn, Manhattan, and Queens, including the beautiful brownstones, co-ops, and apartments that make Park Slope unique.</p>
   

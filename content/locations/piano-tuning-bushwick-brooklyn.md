@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Bushwick | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Bushwick, Brooklyn, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-bushwick-brooklyn/"
+permalink: /piano-tuning-bushwick-brooklyn/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn, Queens, and Manhattan, including the industrial lofts, townhouses, and creative spaces that make Bushwick unique.</p>
   

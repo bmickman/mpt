@@ -7,6 +7,7 @@ date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Bed-Stuy | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Bedford-Stuyvesant, Brooklyn, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-bed-stuy-brooklyn/"
+permalink: /piano-tuning-bedstuy-brooklyn/
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn, Manhattan, and Queens, including the beautiful brownstones, townhouses, and residential streets of Bedford-Stuyvesant (Bed-Stuy).</p>
   
