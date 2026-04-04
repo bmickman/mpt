@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Harlem | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Harlem, Manhattan, NY. Serving apartments, studios, schools, churches, and performance venues throughout Harlem and the greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-harlem-nyc/"
 permalink: /piano-tuning-harlem-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I provide expert piano tuning services throughout Manhattan, Brooklyn, and Queens, including the historic apartments, cultural spaces, and music venues that make Harlem so unique.</p>
   

@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Greenpoint | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Greenpoint, Brooklyn, NY. Serving apartments, lofts, studios, schools, churches, and local performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-greenpoint-brooklyn/"
 permalink: /piano-tuning-greenpoint-brooklyn/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn, Manhattan, and Queens, including the creative lofts, apartments, and studios that make Greenpoint a vibrant arts community.</p>
   

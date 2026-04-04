@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Flushing | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Flushing, Queens, NY. Serving apartments, studios, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-flushing-queens/"
 permalink: /piano-tuning-flushing-queens/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I provide expert piano tuning services throughout Queens, Brooklyn, and Manhattan, including the apartments, studios, and cultural spaces that make Flushing a thriving neighborhood.</p>
   

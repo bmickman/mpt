@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in the East Village | Manhattan Piano Tune
 meta_description: "Professional piano tuning in the East Village, Manhattan, NY. Serving apartments, lofts, studios, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-east-village-nyc/"
 permalink: /piano-tuning-east-village-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I provide expert piano tuning services throughout Manhattan, Brooklyn, and Queens, including the creative apartments, lofts, and studios that make the East Village so vibrant.</p>
   

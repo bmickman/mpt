@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Midtown Manhattan | Manhattan Piano Tun
 meta_description: "Professional piano tuning in Midtown Manhattan, NY. Serving offices, apartments, studios, theaters, and performance venues throughout the area and greater NYC."
 canonical: "https://manhattanpianotuner.com/piano-tuning-midtown-nyc/"
 permalink: /piano-tuning-midtown-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Manhattan, Brooklyn, and Queens, including the luxury apartments, offices, studios, and performance spaces that make Midtown Manhattan unique.</p>
   

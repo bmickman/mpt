@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Chelsea | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Chelsea, Manhattan, NY. Serving apartments, lofts, studios, galleries, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-chelsea-nyc/"
 permalink: /piano-tuning-chelsea-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I provide expert piano tuning services throughout Manhattan, Brooklyn, and Queens, including the apartments, lofts, studios, and galleries that make Chelsea such a creative and vibrant neighborhood.</p>
   

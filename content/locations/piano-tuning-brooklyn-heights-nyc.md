@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in Brooklyn Heights | Manhattan Piano Tune
 meta_description: "Professional piano tuning in Brooklyn Heights, Brooklyn, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-brooklyn-heights-nyc/"
 permalink: /piano-tuning-brooklyn-heights-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout Brooklyn, Manhattan, and Queens, including the historic brownstones, waterfront apartments, and co-ops that make Brooklyn Heights unique.</p>
   

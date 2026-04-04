@@ -8,6 +8,9 @@ meta_title: "Book Online Piano Tuning in the West Village | Manhattan Piano Tune
 meta_description: "Professional piano tuning in the West Village, Manhattan, NY. Serving venues, apartments, lofts, studios, theaters, and musicians throughout the city."
 canonical: "https://manhattanpianotuner.com/piano-tuning-west-village-nyc/"
 permalink: /piano-tuning-west-village-nyc/
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
 about_text: |
   <p>Welcome to the home of Manhattan Piano Tuner! I’m Brandon, a long-term NYC resident and professional piano tuner since 2011. I specialize in tuning pianos throughout the city, from charming historic townhouses, lofts, and apartments that give the West Village its distinctive character.</p>
   
