@@ -1,5 +1,5 @@
 ---
-title: "Piano Tuning in the asdfUpper East Side"
+title: "Piano Tuning in the Upper East Side"
 layout: "location"
 location: "the Upper East Side"
 draft: false
