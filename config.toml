@@ -31,6 +31,11 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
   name = "Contact"
   url = "#contact-section"
   weight = 6
+  [[menu.main]]
+  identifier = "locations"
+  name = "Locations Served"
+  url = "/locations/"
+  weight = 7
 
 # Main Settings
 [params]
