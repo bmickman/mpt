@@ -11,31 +11,37 @@ googleAnalytics = "G-TW140BWEHC" # Add your identifier.
 
 # Menu Settings
 [menu]
+    [[menu.main]]
+  identifier = "calendly"
+  name = "Book Online"
+  url = "https://calendly.com/brandon-mickman"
+  weight = 1
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "#about-section"
-  weight = 1
+  weight = 2
 [[menu.main]]
   identifier = "pricing"
   name = "Pricing"
   url = "#pricing-section"
-  weight = 4
+  weight = 3
 [[menu.main]]
   identifier = "blog"
   name = "FAQ"
   url = "#blog-section"
-  weight = 5
+  weight = 4
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "#contact-section"
-  weight = 6
+  weight = 5
   [[menu.main]]
   identifier = "locations"
   name = "Locations Served"
   url = "/locations/"
-  weight = 7
+  weight = 6
+
 
 # Main Settings
 [params]
