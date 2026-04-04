@@ -3,6 +3,7 @@ title: "Piano Tuning in Harlem, Manhattan"
 layout: "location"
 location: "Harlem, Manhattan"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Harlem | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Harlem, Manhattan, NY. Serving apartments, studios, schools, churches, and performance venues throughout Harlem and the greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-harlem-nyc/"

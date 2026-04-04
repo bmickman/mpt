@@ -3,6 +3,7 @@ title: "Piano Tuning in the Upper West Side"
 layout: "location"
 location: "the Upper West Side"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in the Upper West Side | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in the Upper West Side, Manhattan, NY. Serving venues, apartments, condos, studios, theaters, and musicians throughout the city."
 canonical: "https://manhattanpianotuner.com/piano-tuning-upper-west-side-nyc/"

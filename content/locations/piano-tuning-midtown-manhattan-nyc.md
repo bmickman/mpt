@@ -3,6 +3,7 @@ title: "Piano Tuning in Midtown Manhattan"
 layout: "location"
 location: "Midtown Manhattan"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Midtown Manhattan | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Midtown Manhattan, NY. Serving offices, apartments, studios, theaters, and performance venues throughout the area and greater NYC."
 canonical: "https://manhattanpianotuner.com/piano-tuning-midtown-manhattan/"

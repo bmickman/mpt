@@ -3,6 +3,7 @@ title: "Piano Tuning in Hell’s Kitchen, Manhattan"
 layout: "location"
 location: "Hell’s Kitchen, Manhattan"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Hell’s Kitchen | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Hell’s Kitchen, Manhattan, NY. Serving apartments, studios, theaters, and performance spaces throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-hells-kitchen-manhattan/"

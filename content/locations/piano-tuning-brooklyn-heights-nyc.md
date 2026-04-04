@@ -3,6 +3,7 @@ title: "Piano Tuning in Brooklyn Heights, Brooklyn"
 layout: "location"
 location: "Brooklyn Heights, Brooklyn"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Brooklyn Heights | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Brooklyn Heights, Brooklyn, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-brooklyn-heights-nyc/"

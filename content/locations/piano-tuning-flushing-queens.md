@@ -3,6 +3,7 @@ title: "Piano Tuning in Flushing, Queens"
 layout: "location"
 location: "Flushing, Queens"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Flushing | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Flushing, Queens, NY. Serving apartments, studios, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-flushing-queens/"

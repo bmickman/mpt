@@ -3,6 +3,7 @@ title: "Piano Tuning in the West Village"
 layout: "location"
 location: "the West Village"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in the West Village | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in the West Village, Manhattan, NY. Serving venues, apartments, lofts, studios, theaters, and musicians throughout the city."
 canonical: "https://manhattanpianotuner.com/piano-tuning-west-village-nyc/"

@@ -3,6 +3,7 @@ title: "Piano Tuning in Astoria, Queens"
 layout: "location"
 location: "Astoria, Queens"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Astoria | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Astoria, Queens, NY. Serving homes, apartments, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-astoria-queens/"

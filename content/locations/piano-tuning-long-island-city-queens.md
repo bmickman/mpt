@@ -3,6 +3,7 @@ title: "Piano Tuning in Long Island City, Queens"
 layout: "location"
 location: "Long Island City, Queens"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Long Island City | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Long Island City, Queens, NY. Serving apartments, lofts, studios, schools, and local venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-long-island-city-queens/"

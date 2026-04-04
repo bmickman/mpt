@@ -3,6 +3,7 @@ title: "Piano Tuning in the East Village, Manhattan"
 layout: "location"
 location: "East Village, Manhattan"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in the East Village | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in the East Village, Manhattan, NY. Serving apartments, lofts, studios, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-east-village-nyc/"

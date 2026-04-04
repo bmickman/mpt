@@ -3,6 +3,7 @@ title: "Piano Tuning in Chelsea, Manhattan"
 layout: "location"
 location: "Chelsea, Manhattan"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Chelsea | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Chelsea, Manhattan, NY. Serving apartments, lofts, studios, galleries, schools, churches, and performance venues throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-chelsea-nyc/"

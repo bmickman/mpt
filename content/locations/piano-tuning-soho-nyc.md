@@ -3,6 +3,7 @@ title: "Piano Tuning in SoHo"
 layout: "location"
 location: "SoHo"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in SoHo | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in SoHo, Manhattan, NY. Serving venues, lofts, apartments, studios, theaters, and musicians throughout the neighborhood and greater NYC area."
 canonical: "https://manhattanpianotuner.com/piano-tuning-soho-nyc/"

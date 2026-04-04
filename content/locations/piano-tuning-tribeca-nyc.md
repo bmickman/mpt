@@ -3,6 +3,7 @@ title: "Piano Tuning in Tribeca"
 layout: "location"
 location: "Tribeca"
 draft: false
+date: 2026-04-03
 meta_title: "Book Online Piano Tuning in Tribeca | Manhattan Piano Tuner"
 meta_description: "Professional piano tuning in Tribeca, Manhattan, NY. Serving venues, apartments, lofts, studios, production companies, theaters, and musicians throughout the city."
 canonical: "https://manhattanpianotuner.com/piano-tuning-tribeca-nyc/"
