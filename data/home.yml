@@ -10,13 +10,13 @@ hero:
   image_alt: "Manhattan Piano Tuner"
   title: "Servicing the NYC Metro Area!"
   subtitle: "Manhattan Piano Tuner"
-  description: "Concert and studio-ready, precise piano tuning services for for New York's grand, upright, and spinet pianos, backed by fifteen years of experience. Trusted tuner at Electric Lady Studios, Engine Room Audio, The Cutting Room Studios, and Dubway Studios"
+  description: "Concert and studio-ready, precise piano tuning services for for New York's grand, upright, and spinet pianos, backed by fifteen years of experience. Trusted tuner at Electric Lady Studios, Engine Room Audio, The Cutting Room Studios, and Dubway Studios."
   info:
     - label: "Areas of Service"
       value: "Manhattan Brooklyn Queens Bronx ...sometimes beyond!"
 
     - label: "Experience"
-      value: "10+ Years"
+      value: "15+ Years"
 
     - label: "Founded"
       value: "2011"
