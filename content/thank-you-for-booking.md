@@ -1,0 +1,1 @@
+Thank you for booking! I will see you at the scheduled time!
