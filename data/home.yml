@@ -36,18 +36,21 @@ about:
      I've also tuned specifically for performances by Sarah McLachlan, Alicia Keys, Hugh Jackman, Elvis Costello's band, Chick Corea's band, and for plays such as The Book of Mormon and Shucked. </p>"
   
   list:
-    - label: "Hundreds of pianos tuned!"
-      icon: "far fa-check-circle"
-      value: "124"
+    - label: "Schedule at your convenience!"
+      link: "https://calendly.com/brandon-mickman"
+      icon: "far fa-clock"
+      value: "18"
 
     - label: "CLICK HERE to read my reviews!"
       link: "https://www.google.com/search?q=Manhattan+Piano+Tuner#mpd=~9009220522492547330/customers/reviews"
       icon: "far fa-smile-beam"
       value: "65"
       
-    - label: "Schedule at your convenience!"
-      icon: "far fa-clock"
-      value: "18"
+    - label: "Hundreds of pianos tuned!"
+      icon: "far fa-check-circle"
+      value: "124"
+
+
 
   button:
     text: "* Book Online * on Calendly"
