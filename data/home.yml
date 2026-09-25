@@ -104,8 +104,8 @@ pricing:
 
         
 
-    - name: "Student Rate"
-      subname: "Available to current music students (enrolled in class or private lessons)"
+    - name: "Student/Starving Artist Rate"
+      subname: "Available to current music students (enrolled in class or private lessons), Artists under 30 years old"
       price: "$165"
       list:
         - value: "Piano Tuning"
