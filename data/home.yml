@@ -67,11 +67,25 @@ pricing:
   text: "Simple and straightforward pricing! Ask about current discounts!"
 
   items:
-    
+    - name: "Commercial Rate"
+      subname: "Credit card payments now accepted! W9 and 1099 are OK!"
+      price: "$225"
+      list:
+        - value: "Piano Tuning"
+        - value: "NYC Metro Area"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
+        - value: "Flexible scheduling!"
+        - value: "Late/Early hours are possible upon request"
+        - value: "Bulk tuning discounts by request"
+        - value: "Piano tunings always come with a pitch raise (no extra charge)"
+      button: "Schedule Today!"
+      link: "#contact-section"
+
+
     - name: "Local Discount Rate"
       subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
 
-      price: "$175"
+      price: "$185"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
@@ -86,25 +100,13 @@ pricing:
 
 
 
-    - name: "Commercial Rate"
-      subname: "Commercial rate applies if W9 or 1099 forms are required"
-      price: "$200"
-      list:
-        - value: "Piano Tuning"
-        - value: "NYC Metro Area"
-        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
-        - value: "Flexible scheduling!"
-        - value: "Late/Early hours are possible upon request"
-        - value: "Bulk tuning discounts by request"
-        - value: "Piano tunings always come with a pitch raise (no extra charge)"
-      button: "Schedule Today!"
-      link: "#contact-section"
+
 
         
 
     - name: "Student Rate"
       subname: "Available to current music students (enrolled in class or private lessons)"
-      price: "$145"
+      price: "$165"
       list:
         - value: "Piano Tuning"
         - value: "Residences only"
