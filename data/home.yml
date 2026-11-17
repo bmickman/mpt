@@ -84,11 +84,11 @@ pricing:
 
 
     - name: "Local Discount Rate"
-      subname: "Cash, Venmo, Paypal, Zelle, Cashapp, same-day-check"
+      subname: "Cash, Venmo, Paypal, Zelle, Cashapp, or same-day-check"
 
       price: "$185"
       list:
-        - value: "Piano Tuning"
+        - value: "Piano Tuning for Residential Spaces"
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
