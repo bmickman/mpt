@@ -71,13 +71,14 @@ pricing:
       subname: "Credit card payments now accepted! W9 and 1099 are OK!"
       price: "$225"
       list:
-        - value: "Piano Tuning"
+        - value: "Piano Tuning for Commercial Spaces"
         - value: "NYC Metro Area"
+        - value: "Credit Cards Accepted (Online)"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
         - value: "Late/Early hours are possible upon request"
         - value: "Bulk tuning discounts by request"
-        - value: "Piano tunings always come with a pitch raise (no extra charge)"
+        - value: "Piano tunings always come with a (same-visit) pitch raise (no extra charge)"
       button: "Schedule Today!"
       link: "#contact-section"
 
@@ -92,19 +93,14 @@ pricing:
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge to cover commuting cost"
         - value: "Flexible scheduling!"
         - value: "All additional tunings after the first visit are discounted for the rest of 2026!"
-        - value: "Piano tunings always come with a pitch raise (no extra charge)"
+        - value: "Piano tunings always come with a (same-visit) pitch raise (no extra charge)"
 
       button: "Schedule Today!"
 
       link: "#contact-section"
-
-
-
-
-
         
 
-    - name: "Student/Starving Artist Rate"
+    - name: "Student/Starving Artist Discount"
       subname: "Available to current music students (enrolled in class or private lessons), Artists under 30 years old"
       price: "$165"
       list:
@@ -113,7 +109,7 @@ pricing:
         - value: "No ticketed events"  
         - value: "NYC 5 boroughs only"
         - value: "Flexible scheduling!"        
-        - value: "Piano tunings always come with a pitch raise (no extra charge)"
+        - value: "Piano tunings always come with a (same-visit) pitch raise (no extra charge)"
         - value: "Discounted rate MUST be approved before tuning appointments"               
 
 
